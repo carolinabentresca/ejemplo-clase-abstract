@@ -1,5 +1,5 @@
 # Clase Abstract
 
-### Proyecto Java /  Java Application
+### Proyecto Java / Java Application
 
-### Ejemplo básico de Clase abstract y métodos abstractos
+## Ejemplo básico de Clase abstract y sus métodos 
