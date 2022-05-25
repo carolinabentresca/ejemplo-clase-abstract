@@ -1,4 +1,4 @@
-## Clase Abstract
+## Clase abstract
 
 ### Proyecto Java Application
 
